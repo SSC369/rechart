@@ -1,0 +1,51 @@
+.cowin-dashboard {
+  background-color: #000000;
+  padding: 30px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.stat-container {
+  padding: 30px;
+  background-color: #1c1c2b;
+  border-radius: 10px;
+  margin: 20px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.website-logo {
+  height: 60px;
+}
+.name {
+  color: #2cc6c6;
+  font-size: 36px;
+  margin-left: 10px;
+}
+.main-heading {
+  color: #cbd5e1;
+}
+.stat-name {
+  color: #94a3b8;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.failure-name {
+  color: white;
+  font-family: bree serif;
+}
+.failure-img {
+  width: 50%;
+}
